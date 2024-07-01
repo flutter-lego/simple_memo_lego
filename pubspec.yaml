@@ -1,7 +1,7 @@
 name: simple_memo_lego
 description: "Simple Memo Lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/simple_memo_lego
 
 version: 1.0.0
 
